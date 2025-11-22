@@ -1,6 +1,6 @@
-# ================================================================
+
 # WEBSTORE E-COMMERCE PLATFORM WITH AI CHATBOT
-# ================================================================
+
 
 ## 🌟 Project Overview
 
@@ -275,7 +275,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👥 Authors
 
-- Your Name - Initial work
+- Muhammad Asad - Initial work
 
 ---
 
@@ -285,13 +285,14 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - ChromaDB for vector database
 - Flask and Express.js frameworks
 - MySQL database
-- All open-source contributors
+- Tech2 etc(Youtube Channel) for Initial Store Views
+- EGATOR(Youtube Channel) For Admin Panel Idea
 
 ---
 
 ## 📞 Support
 
-For support, email support@webstore.com or open an issue in the GitHub repository.
+For support, email asadrafaqat2021@gmail.com or open an issue in the GitHub repository.
 
 ---
 
