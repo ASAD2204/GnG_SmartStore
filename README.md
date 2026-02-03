@@ -1,10 +1,10 @@
 
-# WEBSTORE E-COMMERCE PLATFORM WITH AI CHATBOT
+# G&G SmartStore — AI-Powered E-Commerce Platform
 
 
 ## 🌟 Project Overview
 
-WebStore is a full-stack e-commerce platform featuring an advanced AI-powered customer service chatbot. The system combines modern web technologies with artificial intelligence to provide intelligent customer support, product recommendations, order tracking, and business analytics.
+G&G SmartStore is a full-stack e-commerce platform featuring an advanced AI-powered customer service chatbot. The system combines modern web technologies with artificial intelligence to provide intelligent customer support, product recommendations, order tracking, and business analytics.
 
 ---
 
@@ -58,7 +58,7 @@ Before you begin, ensure you have the following installed:
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/your-username/webstore.git
+git clone https://github.com/ASAD2204/webstore.git
 cd webstore
 ```
 
